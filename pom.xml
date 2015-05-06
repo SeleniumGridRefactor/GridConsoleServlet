@@ -17,9 +17,9 @@
   </build>
   <dependencies>
     <dependency>
-      <groupId>org.openqa.grid</groupId>
-      <artifactId>selenium_grid_commons</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
+      <groupId>org.openqa.seleniumgrid</groupId>
+      <artifactId>grid</artifactId>
+      <version>0.0.2-SNAPSHOT</version>
     </dependency>
   </dependencies>
 </project>
